@@ -200,7 +200,7 @@ Browser
 | | |
 |:--|:--|
 | 👨‍💻 **Name** | Abhijeet Jha |
-| 🎓 **Course** | BCA — 3rd Semester |
+| 🎓 **Course** | BCA
 | 💼 **Aspiration** | Backend Developer · Java & Spring Boot Enthusiast |
 
 ---
